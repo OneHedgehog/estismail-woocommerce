@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Estismail v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-08-02 14:09:11+0000\n"
+"Last-Translator: root <treardog1@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: include/wc-estismail-notices.php:15
+#@ estismail-wc-translate
+msgid "name"
+msgstr ""
+
+#: include/wc-estismail-notices.php:17
+#: include/wc-estismail-notices.php:44
+#@ estismail-wc-translate
+msgid "Api query:"
+msgstr ""
+
+#: include/wc-estismail-notices.php:19
+#: include/wc-estismail-notices.php:46
+#@ estismail-wc-translate
+msgid "What should i do?"
+msgstr ""
+
+#: include/wc-estismail-notices.php:21
+#: include/wc-estismail-notices.php:49
+#@ estismail-wc-translate
+msgid "Check your api-key in estis account"
+msgstr ""
+
+#: include/wc-estismail-notices.php:22
+#@ estismail-wc-translate
+msgid "Check your lists in estis account"
+msgstr ""
+
+#: include/wc-estismail-notices.php:23
+#@ estismail-wc-translate
+msgid "Update estismail woocomerse setting"
+msgstr ""
+
+#: include/wc-estismail-notices.php:42
+#@ estismail-wc-translate
+msgid "name (your api-key was invalid, when user clicked checkout)"
+msgstr ""
+
+#: include/wc-estismail-notices.php:48
+#@ estismail-wc-translate
+msgid "Check, if your estis account is set"
+msgstr ""
+
+#: include/wc-estismail-notices.php:50
+#@ estismail-wc-translate
+msgid "Try to generate new-api key and change plugin settings"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: include/wc-estismail-settings.php:17
+#: index.php:0
+#@ estismail-wc-translate
+msgid "Estismail"
+msgstr ""
+
+#: include/wc-estismail-settings.php:19
+#@ estismail-wc-translate
+msgid "Enter your Estismail settings below to control how WooCommerce integrates with your Estismail account."
+msgstr ""
+
+#: include/wc-estismail-settings.php:24
+#@ estismail-wc-translate
+msgid "API key"
+msgstr ""
+
+#: include/wc-estismail-settings.php:27
+#@ estismail-wc-translate
+msgid "Paste your Estismail API key here"
+msgstr ""
+
+#: include/wc-estismail-settings.php:28
+#@ estismail-wc-translate
+msgid "Enter your API key"
+msgstr ""
+
+#: include/wc-estismail-settings.php:44
+#@ estismail-wc-translate
+msgid "Error . Please check your api key"
+msgstr ""
+
+#: include/wc-estismail-settings.php:59
+#@ estismail-wc-translate
+msgid "Opt-In Field Label"
+msgstr ""
+
+#: include/wc-estismail-settings.php:63
+#@ estismail-wc-translate
+msgid "\"Subscribe me\" by default"
+msgstr ""
+
+#: include/wc-estismail-settings.php:78
+#@ estismail-wc-translate
+msgid "Main List"
+msgstr ""
+
+#: include/wc-estismail-settings.php:80
+#@ estismail-wc-translate
+msgid "All customers will be added to this list."
+msgstr ""
+
+#: include/wc-estismail-settings.php:89
+#@ estismail-wc-translate
+msgid "Double opt-in"
+msgstr ""
+
+#: include/wc-estismail-settings.php:96
+#@ estismail-wc-translate
+msgid "Enable double-opt in"
+msgstr ""
+
+#: include/wc-estismail-settings.php:97
+#@ estismail-wc-translate
+msgid "Disable double-opt in"
+msgstr ""
+
+#: include/wc-estismail-settings.php:103
+#@ estismail-wc-translate
+msgid "Enable/Disable"
+msgstr ""
+
+#: include/wc-estismail-settings.php:106
+#@ estismail-wc-translate
+msgid "Enable/disable the estismail plugin functionality."
+msgstr ""
+
+#: include/wc-estismail-settings.php:112
+#@ estismail-wc-translate
+msgid "Position"
+msgstr ""
+
+#: include/wc-estismail-settings.php:114
+#@ estismail-wc-translate
+msgid "Select your checkbox position"
+msgstr ""
+
+#: include/wc-estismail-settings.php:121
+#@ estismail-wc-translate
+msgid "Above customer details"
+msgstr ""
+
+#: include/wc-estismail-settings.php:122
+#@ estismail-wc-translate
+msgid "Below customer details"
+msgstr ""
+
+#: include/wc-estismail-settings.php:123
+#@ estismail-wc-translate
+msgid "Order review above submit"
+msgstr ""
+
+#: include/wc-estismail-settings.php:124
+#@ estismail-wc-translate
+msgid "Order review below submit"
+msgstr ""
+
+#: include/wc-estismail-settings.php:125
+#@ estismail-wc-translate
+msgid "Order review above total"
+msgstr ""
+
+#: include/wc-estismail-settings.php:126
+#@ estismail-wc-translate
+msgid "Above billing details"
+msgstr ""
+
+#: include/wc-estismail-settings.php:127
+#@ estismail-wc-translate
+msgid "Above shipping details"
+msgstr ""
+
+#: include/wc-estismail-settings.php:128
+#@ estismail-wc-translate
+msgid "Below Checkout billing form"
+msgstr ""
+
+#: include/wc-estismail-settings.php:129
+#@ estismail-wc-translate
+msgid "Above Checkout Terms and Conditions"
+msgstr ""
+
+#: include/wc-estismail-settings.php:130
+#@ estismail-wc-translate
+msgid "Below Checkout Terms and Conditions"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: index.php:0
+#@ estismail-wc-translate
+msgid "WooCommerce Estismail"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: index.php:0
+#@ estismail-wc-translate
+msgid "https://estismail.com"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: index.php:0
+#@ estismail-wc-translate
+msgid "WooCommerce Estismail provides simple Estismail integration for WooCommerce."
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: index.php:0
+#@ estismail-wc-translate
+msgid "1.0"
+msgstr ""
+
+#: index.php:65
+#@ estismail-wc-translate
+msgid "WooCommerce Estismail: WooCommerce should be active!"
+msgstr ""
+
